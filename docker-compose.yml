@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    image: cr.bcx.zone/bcx-docker/chassis/base:v1.7
+    volumes:
+    - .:/srv/www/public
+    ports:
+    - 80:80
