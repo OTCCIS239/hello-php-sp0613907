@@ -4,7 +4,7 @@ $name = "Steven Phillips";
 $email = "sp0613907@otc.edu";
 $movie = "The Revenant";
 $food = "Pie Five Pizza";
-$technology = "Youtubes";
+$technology = "GitKraken";
 
 
 
